@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 feature _added
-=======
 1111
->>>>>>> master
+777
 3333
