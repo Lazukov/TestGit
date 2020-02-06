@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 feature _added
+=======
+111
+>>>>>>> master
